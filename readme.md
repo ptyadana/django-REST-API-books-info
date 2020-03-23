@@ -5,6 +5,10 @@ A simple REST API for getting the lists of books information using
 + Django 3
 + Django REST framework
 
+[Visit BooksInfo API on heroku](https://booksbyptyadana.herokuapp.com/books/)
+### Base URL
+base URL for all endpoints: ```https://booksbyptyadana.herokuapp.com/```
+
 ### Endpoints
 ```/books``` get all books
 
